@@ -1,0 +1,12 @@
+@media (max-width:640px) {
+    .tool_card {
+        width: 70%;
+        margin: auto;
+    }
+}
+
+/* @media (min-width:1024) and (max-width:1250) {
+    .tool_card {
+        width: 50%;
+    }
+} */
